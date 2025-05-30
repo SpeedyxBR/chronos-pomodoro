@@ -10,7 +10,7 @@ function App() {
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum cumque
         incidunt accusamus commodi quasi sit, doloribus in fugiat, repellat
-        voluptates, asperiores quisquam. Doloribus, cumque. Quisquam, doloribus\
+        voluptates, asperiores quisquam. Doloribus, cumque. Quisquam, doloribus
         repellendus. Doloribus, cumque.
       </p>
     </>
